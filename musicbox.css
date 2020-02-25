@@ -1,0 +1,16 @@
+h1 {
+  font-family: 'Anton';
+  color: #F08080;
+  text-align: center;
+}
+
+body {
+  font-family: 'Comfortaa';
+  color: #1F618D;
+  text-align: center;
+  
+}
+
+#canvas {
+   border: 1px solid black;
+}
